@@ -1,0 +1,22 @@
+{
+  "name": "ai-recognition-studio",
+  "version": "1.0.0",
+  "description": "In-browser AI image recognition: object detection, background removal and captioning. No server or GPU needed.",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "22.x" },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
