@@ -1,4 +1,3 @@
-// Edit these three lines before deploying.
-export const INSTITUTE = 'Your Institute Name';
-export const AUTHOR = 'Your Name';
-export const INSTITUTE_URL = 'https://your-institute-website.example';
+export const INSTITUTE = 'ADMEC Multimedia Institute';
+export const AUTHOR = 'Sahil';
+export const INSTITUTE_URL = 'https://www.admecindia.co.in/';

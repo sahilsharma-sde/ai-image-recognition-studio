@@ -65,7 +65,7 @@ export default function App() {
   return (
     <div className="studio">
       <header>
-        <h1>Image Recognition Studio</h1>
+        <h1>AI Image Recognition Studio</h1>
         <p>Everything runs in your browser. Your photos are never uploaded.</p>
       </header>
 
